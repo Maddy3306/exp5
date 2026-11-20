@@ -55,5 +55,5 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 
 ---
-## RESULT:
+## RESULT :
 Thus the sorting of given data was done using 8051 keil software.
